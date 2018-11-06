@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541503901 source:c:\users\gabriela\desktop\new folder (13)\vigenere\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1541504049 source:c:\users\gabriela\documents\github\vigenere\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
